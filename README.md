@@ -1,2 +1,2 @@
 # corona_analysis
-Analyse corona virus data
+Analyse corona virus data using Python
